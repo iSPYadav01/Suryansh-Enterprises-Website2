@@ -856,6 +856,6 @@ This project was inspired by the need to digitize government services and make t
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <strong>Suryansh Enterprises</strong></p>
-  <p>© 2025 Suryansh Enterprises. All rights reserved.</p>
+  <p>Made with ❤️ by <strong>Data Dynasty Lab</strong></p>
+  <p>© 2025 Data Dynasty Lab. All rights reserved.</p>
 </div>
