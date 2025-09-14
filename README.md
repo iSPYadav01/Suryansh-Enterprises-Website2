@@ -14,6 +14,7 @@
   <p><strong>Where Innovation Meets Convenience</strong></p>
 </div>
 
+## [Demo[(https://ispyadav01.github.io/Suryansh-Enterprises-Website2/)
 ---
 
 ## 📋 Table of Contents
@@ -157,10 +158,10 @@
 
 Get the project up and running in 5 minutes:
 
-```bash
-# Clone the repository
-git clone https://github.com/suryanshenterprises/website.git
-cd suryansh-enterprises
+   ```bash
+   git clone https://github.com/iSPYadav01/Suryansh-Enterprises-Website2.git
+   cd Suryansh-Enterprises-Website2
+   ```
 
 # Install dependencies
 npm install
