@@ -14,7 +14,7 @@
   <p><strong>Where Innovation Meets Convenience</strong></p>
 </div>
 
-## [Demo[(https://ispyadav01.github.io/Suryansh-Enterprises-Website2/)
+## [Demo](https://ispyadav01.github.io/Suryansh-Enterprises-Website2/)
 ---
 
 ## 📋 Table of Contents
