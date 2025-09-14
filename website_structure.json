@@ -1,0 +1,95 @@
+{
+  "frontend": {
+    "public": [
+      "index.html",
+      "about.html",
+      "services.html",
+      "edistrict.html",
+      "csc-services.html",
+      "sahaj-services.html",
+      "contact.html",
+      "apply.html",
+      "admin-login.html"
+    ],
+    "assets": {
+      "css": [
+        "style.css",
+        "admin.css",
+        "responsive.css"
+      ],
+      "js": [
+        "main.js",
+        "admin.js",
+        "language.js"
+      ],
+      "images": [
+        "logo.png",
+        "hero-bg.jpg",
+        "service-icons/"
+      ],
+      "fonts": [
+        "hindi-fonts/"
+      ]
+    }
+  },
+  "backend": {
+    "structure": [
+      "server.js",
+      "package.json",
+      ".env",
+      "routes/",
+      "controllers/",
+      "models/",
+      "middleware/",
+      "config/",
+      "uploads/",
+      "utils/"
+    ],
+    "routes": [
+      "auth.js",
+      "services.js",
+      "applications.js",
+      "admin.js",
+      "contact.js"
+    ],
+    "models": [
+      "User.js",
+      "Application.js",
+      "Service.js",
+      "Contact.js",
+      "Admin.js"
+    ],
+    "controllers": [
+      "authController.js",
+      "serviceController.js",
+      "applicationController.js",
+      "adminController.js",
+      "contactController.js"
+    ]
+  },
+  "database": {
+    "type": "MongoDB",
+    "collections": [
+      "users",
+      "applications",
+      "services",
+      "contacts",
+      "admins",
+      "notifications"
+    ]
+  },
+  "features": [
+    "Multi-page website with navigation",
+    "Bilingual support (English/Hindi)",
+    "Service application forms",
+    "Admin dashboard for managing applications",
+    "User authentication system",
+    "File upload for documents",
+    "Email notifications",
+    "Application status tracking",
+    "Contact form with admin notifications",
+    "Responsive design for all devices",
+    "SEO optimized pages",
+    "Service catalog management"
+  ]
+}
